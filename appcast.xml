@@ -3,12 +3,12 @@
     <channel>
         <title>unlost</title>
         <item>
-            <title>0.0</title>
-            <pubDate>Fri, 18 Aug 2023 23:17:45 +0100</pubDate>
+            <title>0</title>
+            <pubDate>Wed, 23 Aug 2023 19:10:51 +0100</pubDate>
             <sparkle:version>0.1</sparkle:version>
-            <sparkle:shortVersionString>0.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Vincent-liuwingsang/unlost.github.io/releases/download/prod/unlost.dmg" length="785579509" type="application/octet-stream" sparkle:edSignature="N+MXKLdvxQv9HltilKS7RQDhx4XGQ5IxheOB6tuC6dE2Kq/hnCAQBP6q1GDLfu9kCDVKUJyB2MQiV1MacO2+DQ=="/>
+            <enclosure url="https://github.com/Vincent-liuwingsang/unlost.github.io/releases/download/0.1.0/unlost.dmg" length="512639354" type="application/octet-stream" sparkle:edSignature="QIK43HLrAKRNekINLfIlEqfYq9mQ+V+51tBaHSDqvpFwwR+6GzCGdQqTMZdOoeU2vaictpBM9AMQsvKsCuNiCg=="/>
         </item>
     </channel>
 </rss>
