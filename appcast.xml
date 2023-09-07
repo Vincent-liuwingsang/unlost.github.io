@@ -11,9 +11,6 @@
             <enclosure url="https://github.com/Vincent-liuwingsang/unlost.github.io/releases/download/prod/unlost.dmg" length="535456011" type="application/octet-stream" sparkle:edSignature="xPk2eWre7oBpjHKIpBKOk916DMLNod8Nlb5eGHY47wkLO3iqOicd7n40OQLrHsp5URK1OOvVGw+FUsf21wdnAg=="/>
             <sparkle:releaseNotesLink>https://unlost.ai/updates</sparkle:releaseNotesLink>
             <sparkle:fullReleaseNotesLink>https://unlost.ai/updates</sparkle:fullReleaseNotesLink>
-            <sparkle:tags>
-            <sparkle:criticalUpdate></sparkle:criticalUpdate>
-            </sparkle:tags>
         </item>
     </channel>
 </rss>
