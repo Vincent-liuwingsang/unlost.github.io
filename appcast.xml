@@ -3,12 +3,12 @@
     <channel>
         <title>unlost</title>
         <item>
-            <title>0.4.0</title>
-            <pubDate>Mon, 11 Sep 2023 23:51:02 +0100</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <title>0.4.1</title>
+            <pubDate>Tue, 12 Sep 2023 11:51:43 +0100</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Vincent-liuwingsang/unlost.github.io/releases/download/prod/unlost.dmg" length="534308189" type="application/octet-stream" sparkle:edSignature="qPPrfhgdp9tvhCPRwZoy/VgSvpXloaYVjGgV+faQmXjXzY9xQpdz2p90ixcW89hFxo7ZDm5tqVX3ma7IGX6YCg=="/>
+            <enclosure url="https://github.com/Vincent-liuwingsang/unlost.github.io/releases/download/prod/unlost.dmg" length="534309083" type="application/octet-stream" sparkle:edSignature="qZ9vAFPHz6dpLXsb9ET6/41bM2xyCX5Vn2PStqk13iKCE63e7QifisJYOqEIpC5cIyhjuzeclx1ZHAKFmBi3Bg=="/>
             <sparkle:releaseNotesLink>https://unlost.ai/updates</sparkle:releaseNotesLink>
             <sparkle:fullReleaseNotesLink>https://unlost.ai/updates</sparkle:fullReleaseNotesLink>
         </item>
